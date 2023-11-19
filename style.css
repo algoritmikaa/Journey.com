@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+}
+
+main {
+    text-align: center;
+}
+
+body {
+    background-image:linear-gradient(to right, rgb(70, 185, 147), rgb(92, 200, 92), rgb(198, 246, 64));
+
+}
+
+iframe {
+    margin: 30px;
+    border: 5px solid royalblue;
+}
